@@ -8,3 +8,7 @@ Revive player
 
 
 permisson: "admin.users.user"
+
+Print: https://prnt.sc/qockwb
+
+
