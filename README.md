@@ -1,14 +1,11 @@
-# vrp_adminpamonha
 
+# vrp_admin by pamonha
 I created this script some time ago and am releasing access.
 
+A simple mod that adds the option to revive a player to the VRP admin menu.
 
-Revive player
+permisson: `admin.users.user`
 
-
-
-permisson: "admin.users.user"
-
-Print: https://prnt.sc/qockwb
+![enter image description here](https://i.imgur.com/vteWMMY.png)
 
 
